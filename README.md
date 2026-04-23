@@ -14,4 +14,4 @@ This commits suicide and the opponent wins. A move may also result in both playe
 adjacent pieces. Such simultaneous connection is considered as a draw. A player with only one piece
 left (due to captures) is by definition connected. (Therefore, a player can never have zero pieces left
 because when s/he has one piece left, the game would be over by then.) A player may also have no
-possible moves; but we simply assume this will not happen in this assignment.
+possible moves; but we simply assume this will not happen in this project.
